@@ -8,4 +8,4 @@ end
 
 # call your method here!
 
-hello_t(array)
+hello_t(["Tim", "Tom", "Jim"])
